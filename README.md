@@ -33,8 +33,8 @@ Visual Studio 2022 / VS Code / Rider
 
 Clone the repository:
 
-bashgit clone https://github.com/yourusername/semantic-kernel-pizza-agent.git
-cd semantic-kernel-pizza-agent
+bashgit clone https://github.com/moises-zp/agent_for_pizzas.git
+cd agent_for_pizzas
 
 Install dependencies:
 
@@ -134,7 +134,7 @@ Google Gemini team
 .NET community
 
 📧 Contact
-Your Name - @yourtwitter
+Moisés Zapata Placencia 
 Project Link: https://github.com/yourusername/semantic-kernel-pizza-agent
 
 Note: This is a sample project for educational purposes. The payment processing is simulated and the data storage is in-memory only.
